@@ -1,0 +1,27 @@
+# Ceci est le fichier robots du site Afflelou.com
+
+User-agent: *
+Sitemap: https://www.afflelou.com/sitemap.xml
+Allow: /
+Disallow: /mon-compte/*
+Disallow: /panier
+Disallow: /commande/*
+Disallow: /magazine/?p*
+Disallow: /iframe/*
+Disallow: /category-push?*
+Disallow: /*sort=*
+Disallow: /?filters*
+Disallow: /*&filters*
+Disallow: /mes-favoris
+Disallow: /mentions-legales
+Disallow: /conditions-generales-de-vente
+Disallow: /politique-protection-des-donnees-personnelles
+Disallow: /vision/lentilles-de-contact/mettre-retirer-des-lentilles-de-contact-alcon
+Disallow: /opticien/*/cabine-virtuelle*
+Disallow: /choisir-mes-verres/ma-prescription
+Disallow: /ajout-panier?*
+Disallow: *glasspack=*
+Disallow: */imprimer-selection?*
+Disallow : */tchin-tchin-idee-cadeau-lunettes/
+Disallow : /rendez-vous/opticien/
+Disallow : /entreprise/ils-parlent-de-nous/*
